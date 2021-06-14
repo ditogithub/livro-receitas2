@@ -1,4 +1,5 @@
-#  Feijoada a Brasileira :woman_cook:
+# livro-receitas2
+# Feijoada a Brasileira:woman_cook:
 
 ### Ingredientes
 
@@ -14,7 +15,7 @@
 - 2 dentes de alho amassados
 - 2 tabletes de MAGGI Caldo Carne esfarelados
 
-### Modo de preparo
+# Modo de preparo
 
 1- De véspera, coloque o feijão e as carnes salgadas de molho, separadamente, trocando a água das carnes algumas vezes.
 
@@ -33,4 +34,6 @@
 8- Acrescente o MAGGI Caldo e um pouco de caldo de feijão e deixe refogar bem.
 
 9- Junte à feijoada, misture bem e deixe no fogo por cerca de 20 minutos. Sirva.
+
+
 
